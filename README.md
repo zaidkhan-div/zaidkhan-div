@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
-<h3 align="center">I'm a full-stack developer passionate about building innovative and user-friendly web and app applications with a focus on scalability.</h3>
+<h3 align="center">I'm a MERN-stack developer passionate about building innovative and user-friendly web and app applications with a focus on scalability.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at https://zaidkhanportfoli.netlify.app/
 
-- 💬 Ask me about **JavaScript, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, React, React-Native**
+- 💬 Ask me about **JavaScript, NodeJS, ExpressJS, MongoDB, Firebase, React, React-Native**
 
 - 📫 How to reach me **zaidscestudent@gmail.com**
   
@@ -13,7 +13,7 @@
 
 ### **Frontend**
 - JavaScript, TypeScript  
-- React, Next.js, React Native  
+- React, React Native  
 - TailwindCSS, Bootstrap  
 
 ### **Backend**
