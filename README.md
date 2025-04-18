@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at https://zaidkhanportfoli.netlify.app/
+- 👨‍💻 All of my projects are available at https://zaid-portfolio-github-io.vercel.app/
 
 - 💬 Ask me about **JavaScript, NodeJS, ExpressJS, MongoDB, Firebase, React, React-Native**
 
