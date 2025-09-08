@@ -65,3 +65,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+## 🏆 Codewars Rank
+
+![Codewars Badge](https://www.codewars.com/users/Zaidkhan9126/badges/large?theme=light)
